@@ -11,6 +11,9 @@ Jeg testet/kjørte selv prosjektet fortløpende ved bruk av Open Live Server-utv
 
 ## Kommentarer
 Den største utfordringen var begrenset tid til å jobbe med prosjektet. 
+
+Opplevde flere ganger problemer med CORS policy ved bruk av Stacc's KYC API og JS' fetch-metode, det kunne variere fra tid til tid om spørringene gikk gjennom.
+
 Prosjektet var et første møte med mange nye teknologiløsninger og utfordringer jeg ikke hadde vært borti før (bygge nettside med JS + html, kontakt med API'er ved bruk av fetch-metoden på JS, jeg har liten erfaring med CSS, for å nevne noen ting). Veldig lærerikt!
 
 Ting jeg ønsker å legge til/fikse på i fremtiden:
@@ -20,6 +23,8 @@ Ting jeg ønsker å legge til/fikse på i fremtiden:
 2. Vise bilder av PEP'ene med Wikipedia-sider ved hjelp av MediaWiki API
 
 3. Generell effektivisering og simplifisering av koden
+
+4. Komme til bunns i hva som førte til CORS policy problemet
 
 Jeg fikk heller ikke mulighet til å teste om applikasjonen ville vise flere enn ett navn-sjekk-resultat ved søk på orgNr (som den i teorien skal).
 Dette rett og slett fordi jeg ikke fant noen foretak med fler enn én PEP.
