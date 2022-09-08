@@ -26,5 +26,7 @@ Ting jeg ønsker å legge til/fikse på i fremtiden:
 
 4. Komme til bunns i hva som førte til CORS policy problemet
 
-Jeg fikk heller ikke mulighet til å teste om applikasjonen ville vise flere enn ett navn-sjekk-resultat ved søk på orgNr (som den i teorien skal).
-Dette rett og slett fordi jeg ikke fant noen foretak med fler enn én PEP.
+~~Jeg fikk heller ikke mulighet til å teste om applikasjonen ville vise flere enn ett navn-sjekk-resultat ved søk på orgNr (som den i teorien skal).
+Dette rett og slett fordi jeg ikke fant noen foretak med fler enn én PEP.~~
+
+Jeg har nå bekreftet at det fungerer fint med foretak med fler enn én PEP!
