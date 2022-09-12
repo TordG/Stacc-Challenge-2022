@@ -25,7 +25,6 @@ const searchOrgNr = (orgNr) => {
       document.getElementById(
         "org_name"
       ).innerHTML = `PEP-checking for organization number ${orgNr}`;
-      console.log(json_result);
 
       let nameArray = []; //tabell til ansatte
 
@@ -44,7 +43,6 @@ const searchOrgNr = (orgNr) => {
         }
       }
 
-      console.log(nameArray);
       pepCheckArray(nameArray);
     });
 };
