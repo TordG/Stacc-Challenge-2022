@@ -15,8 +15,6 @@ Jeg testet/kjørte selv prosjektet fortløpende ved bruk av Open Live Server-utv
 
 Den største utfordringen var begrenset tid til å jobbe med prosjektet.
 
-Opplevde flere ganger problemer med CORS policy ved bruk av Stacc's KYC API og JS' fetch-metode, det kunne variere fra tid til tid om spørringene gikk gjennom.
-
 Prosjektet var et første møte med mange nye teknologiløsninger og utfordringer jeg ikke hadde vært borti før (bygge nettside med JS + html, kontakt med API'er ved bruk av fetch-metoden på JS, jeg har liten erfaring med CSS, for å nevne noen ting). Veldig lærerikt!
 
 Ting jeg ønsker å legge til/fikse på i fremtiden:
